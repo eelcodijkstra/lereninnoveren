@@ -13,7 +13,7 @@ De wereld verandert is een snel tempo. Maar niet overal gaan de veranderingen ev
 
 Voor bijna alle bedrijven geldt: als je je niet aanpast aan de snelle veranderingen, loop je een groot risico overbodig te worden. Als de markt voor een bedrijf verandert, of wegvalt, is het snel afgelopen. We hebben dit bijvoorbeeld gezien voor bedrijven in de analoge (chemische) fotografie, zoals Polaroid en Kodak.
 
-Uiteindelijk geldt voor alle organisaties dat hun bestaan in gevaar komt als ze zich niet aanpassen. Maar niet alle organisaties 
+Uiteindelijk geldt voor alle organisaties dat hun bestaan in gevaar komt als ze zich niet aanpassen. Maar niet alle organisaties
 
 
 Bedrijven kunnen niet voor enkele jaren vooruit plannen: de wereld verandert daarvoor te snel.
