@@ -1,0 +1,51 @@
+# About/contact
+author:
+  name:              Eelco Dijkstra
+  url:               infvo.com/lereninnoveren
+  email:             eelco@infvo.com
+
+# Site settings
+title:            Leren en innoveren
+tagline:          'leren innoveren - in het onderwijs'
+description:      'Leren en innoveren spelen een grote rol bij bedrijven en professionals die de toekomst vorm willen geven. Wat kan het onderwijs daarvan leren?'
+baseurl: ""
+paginate: 5
+port: 4004
+
+# url a.o. being used for RSS feed - in combination with permalink
+url: "http://infvo.com"
+# twitter_username: jekyllrb
+github_username:  eelcodijkstra
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  use_coderay: true
+  coderay:
+    coderay_line_numbers: ""
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+# permalink:           pretty
+relative_permalinks: true
+permalink: ":year/:month/:day/:title"
+
+# Collections
+collections:
+  notes:
+    output: true
+  drafts:
+    output: true
+  essays:
+    output: true
+
+defaults:
+
+
+# Custom vars
+version:          0.0.1
+
+#github:
+#  repo:           https://github.com/poole/lanyon
