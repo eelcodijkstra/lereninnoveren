@@ -47,5 +47,5 @@ defaults:
 # Custom vars
 version:          0.0.1
 
-#github:
-#  repo:           https://github.com/poole/lanyon
+github:
+  repo:           https://github.com/eelcodijkstra/lereninnoveren
