@@ -49,3 +49,5 @@ version:          0.0.1
 
 github:
   repo:           https://github.com/eelcodijkstra/lereninnoveren
+
+host: "github"
