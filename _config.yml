@@ -8,7 +8,7 @@ author:
 title:            Leren en innoveren
 tagline:          'leren innoveren - in het onderwijs'
 description:      'Leren en innoveren spelen een grote rol bij bedrijven en professionals die de toekomst vormgeven. Wat kan het onderwijs daarvan leren?'
-baseurl: "http://eelcodijkstra.github.io/lereninnoveren"
+baseurl: "/lereninnoveren"
 paginate: 5
 port: 4004
 
@@ -50,4 +50,4 @@ version:          0.0.1
 github:
   repo:           https://github.com/eelcodijkstra/lereninnoveren
 
-host: "github"
+jekyllhost: "github"
