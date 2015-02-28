@@ -19,9 +19,9 @@ Op grond van deze veranderingen stelt Marc Andreesen, één van de pioniers van 
 
 In een aantal andere domeinen gaan de veranderingen in een veel lager tempo. Dit geldt zeker ook voor het onderwijs. Dit is een wereld waar, om allerlei redenen, innovatie erg moeizaam blijkt te verlopen. Eén van de onderzoekers naar innovatie, Clayton Christensen, heeft één van zijn boeken speciaal gewijd aan het onderwijs: Disrupting Class.
 
-Dit gebrek aan innovatie in het onderwijs zou geen probleem zijn als de huidige praktijk "de best mogelijke" zou zijn. Voor andere gebieden lijkt de perfectie al wel bereikt. De viool is al eeuwen onveranderd: instrumenten van top-bouwers uit de 18e eeuw zijn zeer gewild. Een dergelijke perfectie vinden we ook bij componisten als Back en Mozart, en in de kunst. Er worden wel nieuwe vormen bedacht, maar niet om de oudere resultaten te verbeteren. Hooguit kun je zeggen dan een aantal van deze nieuwe vormen beter bij deze tijd passen.
+Dit gebrek aan innovatie in het onderwijs zou geen probleem zijn als de huidige praktijk "de best mogelijke" zou zijn. In het onderwijs is van een dergelijke situatie geen sprake. Voor zowel leerlingen als voor docenten en andere betrokkenen zijn veel betere manieren van leren en ondersteuning daarbij denkbaar. Maar door de manier van organiseren van de onderwijssector en de maatschappelijke en politieke context is er maar incidenteel sprake van vernieuwing.
 
-In het onderwijs is van een dergelijke situatie geen sprake. Voor zowel leerlingen als voor docenten en andere betrokkenen zijn veel betere manieren van leren en ondersteuning daarbij denkbaar. Maar door de manier van organiseren van de onderwijssector en de maatschappelijke en politieke context is er maar incidenteel sprake van vernieuwing.
+Bovendien verandert de omgeving van de leerlingen, nu en in de toekomst: ook daarop zal het onderwijs een antwoord moeten vinden, door middel van innovatie.
 
 In de komende artikelen probeer ik na te denken over de manieren waarop het onderwijs kan  leren van de innoverende ICT-wereld. Dit gaat veel verder dan alleen het gebruik van de technologie: het gaat om de manier van denken en de manier van werken.
 
