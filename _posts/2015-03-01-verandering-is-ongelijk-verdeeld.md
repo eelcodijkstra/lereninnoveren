@@ -2,7 +2,7 @@
 title: "Verandering is ongelijk verdeeld"
 author: EJD
 layout: draft
-date: 27-02-2015
+date: 01-03-2015
 ---
 
 > *The Future Has Arrived — It’s Just Not Evenly Distributed Yet.* William Gibson
