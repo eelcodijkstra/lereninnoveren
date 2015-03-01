@@ -7,9 +7,9 @@ date: 27-02-2015
 
 > *The Future Has Arrived — It’s Just Not Evenly Distributed Yet.* William Gibson
 
-Niet alleen de toekomst is ongelijk verdeeld, dit geldt ook voor de snelheid van verandering en innovatie. Sommige domeinen, organisaties en bedrijven veranderen en innoveren in hoog tempo. In andere domeinen vindt er geen of nauwelijks innovatie plaats.
+Niet alleen de toekomst is ongelijk verdeeld, dit geldt ook voor de snelheid van veranderen en innoveren. Sommige domeinen, organisaties en bedrijven veranderen en innoveren in hoog tempo. In andere domeinen vindt er geen of nauwelijks innovatie plaats.
 
-In de ICT-wereld moet je innoveren om te overleven. Bovendien zijn de voorwaarden voor innoveren hier erg gunstig. De innovatie vindt over een breed gebied plaats, van de hardware (Moore's Law), tot en met de toepassingen (apps). De snelheid van innoveren ligt erg hoog; een bedrijf als Etsy zo'n dertig verbeteringen per dag in hun website aan.
+In de ICT-wereld moet je innoveren om te overleven. Bovendien zijn de voorwaarden voor innoveren hier erg gunstig. De innovatie vindt over een breed gebied plaats, van de hardware (Moore's Law), tot en met de toepassingen (apps). De snelheid van innoveren ligt erg hoog; een bedrijf als Etsy voert zo'n dertig verbeteringen per dag door in hun website-software.
 
 De ICT-wereld probeert ook in andere domeinen te innoveren, op basis van de expertise in het eigen domein, en van de eigen innovatie-vaardigheden. Alles wat digitaal en programmeerbaar gemaakt kan worden, is een potentieel domein voor ICT-innovatie. Een klassiek voorbeeld hiervan is de horloge-industrie; een recenter voorbeeld de fotografie-wereld. De "content"-wereld (nieuws, muziek, film, video, boeken) is een wat lastiger gebied, omdat het niet alleen om de technische innovaties gaat, maar ook daar is de invloed duidelijk te merken. De verkoop en distributie van allerlei goederen, begonnen bij boeken, is steeds meer in handen van bedrijven als Bol en Amazon. Amazon is voornamelijk een software-bedrijf; de fysieke kant wordt steeds meer door robots gedaan.
 
@@ -19,7 +19,7 @@ Op grond van deze veranderingen stelt Marc Andreesen, één van de pioniers van 
 
 In een aantal andere domeinen gaan de veranderingen in een veel lager tempo. Dit geldt zeker ook voor het onderwijs. Dit is een wereld waar, om allerlei redenen, innovatie erg moeizaam blijkt te verlopen. Eén van de onderzoekers naar innovatie, Clayton Christensen, heeft één van zijn boeken speciaal gewijd aan het onderwijs: Disrupting Class.
 
-Dit gebrek aan innovatie in het onderwijs zou geen probleem zijn als de huidige praktijk "de best mogelijke" zou zijn. In het onderwijs is van een dergelijke situatie geen sprake. Voor zowel leerlingen als voor docenten en andere betrokkenen zijn veel betere manieren van leren en ondersteuning daarbij denkbaar. Maar door de manier van organiseren van de onderwijssector en de maatschappelijke en politieke context is er maar incidenteel sprake van vernieuwing.
+Dit gebrek aan innovatie in het onderwijs zou geen probleem zijn als de huidige praktijk "de best mogelijke" zou zijn. In het onderwijs is daarvan geen sprake. Voor zowel leerlingen als voor docenten zijn veel betere manieren van leren en ondersteuning daarvan denkbaar. Maar de manier van organiseren van het onderwijs en  de maatschappelijke en politieke context lijken vernieuwing maar incidenteel mogelijk te maken.
 
 Bovendien verandert de omgeving van de leerlingen, nu en in de toekomst: ook daarop zal het onderwijs een antwoord moeten vinden, door middel van innovatie.
 
