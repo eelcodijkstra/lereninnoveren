@@ -1,7 +1,7 @@
 ---
 title: "Verandering is ongelijk verdeeld"
 author: EJD
-layout: draft
+layout: post
 date: 01-03-2015
 ---
 

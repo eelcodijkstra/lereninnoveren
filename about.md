@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Over leren en innoveren
 author: EJD
 ---
 
@@ -18,6 +18,15 @@ Belangrijke bronnen van inspiratie hierbij zijn:
 * over leren als bedrijfscultuur: Toyota (Mike Rother: Toyota Kata)
 * over de veranderingen op maatschappelijk gebied: Jeremy Rifkin (The Third Industrial Revolution; The Zero Marginal Cost Society)
 
-Vragen of opmerkingen?
+#### Vragen of opmerkingen?
+
+Het hardop-denken op deze website is ook bedoeld om in gesprek te komen over deze onderwerpen. Veel ideeën zijn nog onrijp, en mijn mening is niet in steen gebeiteld. Vragen en opmerkingen zijn welkom via:
 
 * via het commentaar-systeem
+* via de mail (zie website Its Academy Amsterdam)
+
+
+> **Over mijzelf**<br>
+Na een loopbaan aan de universiteit (Informatica-onderwijs en -onderzoek) en in het industriële onderzoek, ben ik de laatste jaren vooral bezig met het vak Informatica in het Voortgezet Onderwijs. Hoe kunnen we dit het aantrekkelijkste en meest relevante vak op school maken? In mijn ogen is dit een vak voor alle leerlingen: iedereen heeft in zijn privé- en beroepsleven met computers te maken, het lijkt me belangrijk dat je daar goed mee kunt omgaan. Bovendien denk ik in termen van "Program or be programmed": als je omgeving steeds meer programmeerbaar wordt, is het belangrijk om deze aan te kunnen passen aan je eigen behoeften, om te voorkomen dat anderen jouw omgeving aanpassen naar hun behoefte.<br>
+*Eelco Dijkstra*
+
